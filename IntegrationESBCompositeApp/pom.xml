@@ -142,34 +142,10 @@
       <type>zip</type>
     </dependency>
     <dependency>
-      <groupId>com.wso2.Integration.demo.esb.proxy-service</groupId>
-      <artifactId>Calculator</artifactId>
-      <version>1.0.0</version>
-      <type>xml</type>
-    </dependency>
-    <dependency>
       <groupId>com.wso2.Integration.registry.artifacts.resource</groupId>
       <artifactId>integration_sec_policy</artifactId>
       <version>1.0.0</version>
       <type>zip</type>
-    </dependency>
-    <dependency>
-      <groupId>com.wso2.Integration.demo.esb.proxy-service</groupId>
-      <artifactId>RuleMediatorTest</artifactId>
-      <version>1.0.0</version>
-      <type>xml</type>
-    </dependency>
-    <dependency>
-      <groupId>com.wso2.Integration.demo.esb.proxy-service</groupId>
-      <artifactId>RuleTest</artifactId>
-      <version>1.0.0</version>
-      <type>xml</type>
-    </dependency>
-    <dependency>
-      <groupId>com.wso2.Integration.demo.esb.proxy-service</groupId>
-      <artifactId>CalculatorUnsecured</artifactId>
-      <version>1.0.0</version>
-      <type>xml</type>
     </dependency>
   </dependencies>
   <repositories>
